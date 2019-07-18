@@ -11,7 +11,7 @@ Sharing bicycles represent a healthier and environment-friendly lifestyle, and t
 Where do Bikeshare riders go? When do they ride? How far do they go? Which stations are most popular? What days of the week are most rides taken on?
 
 ## Hackathon Challenge
-The use case can be found 
+The use case can be found [here](https://drive.google.com/open?id=1U2WnrzFWEs7w_-N7mEx2GBtqVrpQ0_1r)
 
 ### Final scoring
 The final grade of each team will be calculated based on the following:
